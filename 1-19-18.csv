@@ -1,0 +1,287 @@
+Date,"Segment Name","Segment ID",Category,Distance,"Avg. Grade","Max. Grade","Highest Elevation","Lowest Elevetion",City,State,Country,Time,"Avg. Speed","Avg. Cadence","Avg. Watts",Powermeter?,"Avg. Heartrate","Max. Heartrate"
+2018-01-13T14:30:15Z,"Stadium Sprint (out of order)",16812756,SP,430.3,-0.6,18.2,10.9,3.5,Passaic,"New Jersey","United States",33,47.64,109,361.2,,159.5,171
+2018-01-13T13:58:25Z,"20th East (Madison-27) ZDSG",12066903,SP,571.5,0.4,1.1,27.4,24.5,,,,50,42.18,98.9,357.7,,165.8,174
+2018-01-13T13:33:05Z,"Totowa Rd Bridge to Bridge NB (out of order)",13351455,SP,512.6,0.2,3.6,38.7,37.1,Totowa,"New Jersey","United States",41,44.96,101.1,341.1,,172.8,179
+2018-01-13T13:03:51Z,"Lackawanna Bike Lane Strip",13636010,SP,748.3,-0.1,8.6,40.9,38.3,,,,59,45.68,105.9,421,,178.5,181
+2018-01-11T13:20:51Z,"Beckwith E (From Madison)",12782104,FM,1386.9,0.1,22.2,35,25.1,Paterson,"New Jersey","United States",138,34.65,82,238.5,,159.7,168
+2018-01-11T12:48:52Z,"Broadway W (32nd-22nd)",12515421,SP,794.5,0.9,1.6,27.9,20.8,Paterson,"New Jersey","United States",70,41.1,93,394.1,,173.9,176
+2018-01-11T12:32:21Z,"18th (35-27) ZDSG",12179055,SP,608.2,0.5,3.6,23.9,19.2,Paterson,"New Jersey","United States",53,39.88,92.2,272.7,,173.6,177
+2018-01-11T12:15:22Z,"I am ripper, slasher, smasher, destroyer My name is Beowulf... (out of order)",16801628,SP,319.1,0,0,14,14,"Elmwood Park","New Jersey","United States",25,44.87,103.1,394.4,,172.4,175
+2018-01-11T12:15:06Z,"Van Riper Full Run pre Turn (out of order)",16804165,SP,488.8,-0.9,0,12.6,8,"Elmwood Park","New Jersey","United States",41,42.92,100,289.1,,166.2,175
+2018-01-11T12:07:29Z,"Ripper yo (out of order)",16785778,SP,333.6,-0.7,0,79,76.6,"Elmwood Park","New Jersey","United States",35,35.81,81.7,222.3,,175.5,176
+2018-01-10T11:40:27Z,"Brighton Road Full",13581817,FM,1813.3,-0.1,4.1,44.3,37,Clifton,"New Jersey","United States",206,31.84,73,202.8,,164.4,177
+2018-01-10T11:40:25Z,"Brighton to the park (out of order)",16761216,SP,904.5,-0.6,2.6,44.4,37.5,Clifton,"New Jersey","United States",77,41.98,96.3,314.3,,173.1,177
+2018-01-10T10:13:35Z,"Kuller Road Quarter Mile Sprint (UTR)",13434187,SP,452.9,-3,0,48.2,34.4,Clifton,"New Jersey","United States",29,53.11,125,224,,180.1,186
+2017-12-21T13:03:00Z,"Sadlle River Rd South - Rt 80 to Market St",13320088,SP,431,-0.3,3.6,-3,-7.4,Lodi,"New Jersey","United States",32,44.67,95.7,373.8,,175.8,177
+2017-12-20T10:48:47Z,"Boulevard from market st to rte 46",10352665,SP,630.6,0.5,6.1,16.6,11.9,"Elmwood Park","New Jersey","United States",47,45.43,96.6,462.6,,176.1,179
+2017-12-20T10:37:52Z,"Market St E River to River (ZDSG)",14498577,SP,425.2,0,0.5,-14,-14,"Elmwood Park","New Jersey","United States",32,49.31,104.5,397.6,,169.9,178
+2017-12-20T10:30:42Z,"Backdoor to your moms house (out of order)",16784905,SP,442.9,0.3,3,10.3,8.6,"Elmwood Park","New Jersey","United States",39,41.1,86.9,269.9,,175.3,177
+2017-12-20T10:30:40Z,"River Rd South Philip to Heliport",16699759,SP,457.4,-0.7,1.1,-13,-16.2,"Elmwood Park","New Jersey","United States",41,41.08,87,256.8,,175,177
+2017-12-19T13:50:14Z,"Clifton Ave Quarter Mile Sprint East - 3rd to Main",13290554,SP,428.1,-0.7,0,1,-2,Clifton,"New Jersey","United States",30,49.86,106.9,354.8,,178.4,182
+2017-12-08T10:00:22Z,"Mash it to the light (out of order)",16623428,SP,388.2,0.9,5.3,34.6,31,Nutley,"New Jersey","United States",36,38.82,102.7,346.2,,161.4,172
+2017-12-07T12:57:08Z,"Center St - Franklin to Passaic",9962967,SP,522.3,1.5,13.1,33,23,Nutley,"New Jersey","United States",41,44.6,119.2,517.2,,174.8,181
+2017-12-03T11:23:17Z,"GSP to Springfield Ave",15207677,FM,2940.6,-1,3.5,65,23.2,,,,334,31.41,78.5,152.5,,157.1,168
+2017-10-27T13:18:51Z,"E35 N",12601763,SP,183.1,-0.5,0,21.4,20.4,Paterson,"New Jersey","United States",15,42.34,,153.3,,151.7,162
+2017-10-27T13:12:19Z,"23rd Ave East",12601747,SP,266.3,-1.5,2.8,28.8,22.6,Paterson,"New Jersey","United States",21,44.78,,413.1,,156.7,168
+2017-10-25T10:21:16Z,"Pennington South 2nd Part (out of order)",16351435,SP,551.3,2.1,7,44,32.2,Passaic,"New Jersey","United States",69,28.97,,267.1,,164,164
+2017-10-25T10:20:47Z,"Up Pennington Ave South",12442821,MC,789.3,3.5,15.2,104.6,77.2,Passaic,"New Jersey","United States",98,29.17,,345.6,,163.4,164
+2017-10-25T10:20:36Z,"Pennington South (red light duh) (out of order)",16351421,MC,306.2,5.3,11.2,31.2,15,Passaic,"New Jersey","United States",35,31.81,,421.4,,157.5,164
+2017-10-24T10:45:51Z,"analysis segment on how cory cheated on this segment, when clearly he is weaker especially on climbs than the other athletes",16364343,MC,575.1,4.3,16.9,38.7,14,Clifton,"New Jersey","United States",55,38.06,,590,,171.1,174
+2017-10-21T10:42:47Z,"Under 21 sprint (out of order)",16806989,SP,314.5,-0.8,0,16,13.6,Passaic,"New Jersey","United States",29,37.61,,196.1,,168,171
+2017-10-14T10:00:26Z,"Broad St North - Alexander to Rt 3",13257794,FM,1056.3,-0.2,2.2,58.2,53.6,,"New Jersey","United States",70,51.88,,570.8,,66.7,68
+2017-10-14T09:59:33Z,"Broad Street - Broadacres Dr to Van Houten NB (out of order)",12737696,FM,3482.2,0,8,64.4,54.8,,"New Jersey","United States",256,48.76,,627.1,,64.6,68
+2017-10-14T09:59:33Z,"Broad St NB - Broadacres Dr to Allwood",12789209,FM,1821,0.4,8.3,80.6,71.6,,"New Jersey","United States",129,50.98,,621.6,,65.7,68
+2017-10-14T09:59:12Z,"Broad St N - Bellevue to Alexander Ave",13253043,SP,940.3,1.2,7.1,58.2,47.2,,"New Jersey","United States",70,49.21,,660.1,,64.3,66
+2017-10-06T20:03:48Z,"Paulison Ave Rt46 to Clifton Ave (out of order)",16207987,SP,806.9,-1,2.3,13,4.8,Clifton,"New Jersey","United States",64,45.39,,320.3,,,
+2017-10-06T20:03:44Z,"Paulison Ave: 46 - Clifton Ave",11872346,SP,877.5,-1.1,3.2,45.6,36.2,Clifton,"New Jersey","United States",71,44.48,,296.1,,,
+2017-10-04T19:23:35Z,"Fair Lawn Ave TT West (ZDSG)",16120838,FM,2910.6,0.1,6.9,31.2,20.8,,,,316,33.33,,204.2,,163.1,174
+2017-10-02T14:00:32Z,"Charles St East Complete ",16095514,SP,988.1,0,12.2,34.2,16.4,Garfield,"New Jersey","United States",100,35.63,,268.1,,175.5,179
+2017-10-02T14:00:32Z,"Charles St to Harrison East",16095500,MC,517.3,3.4,12.2,34.2,16.4,Garfield,"New Jersey","United States",59,31.15,,397.3,,174.8,178
+2017-10-02T13:16:18Z,"Lafayette to Lincoln East",14419609,SP,608,-0.9,4.2,-16.2,-23.6,Hawthorne,"New Jersey","United States",46,47.76,,434.7,,184,186
+2017-10-02T13:15:02Z,"Wagaraw East ",12582202,FM,1450.5,-0.4,3.9,16.9,9.5,Hawthorne,"New Jersey","United States",120,43.34,,321.3,,178.1,186
+2017-08-27T14:17:53Z,"Poplar to Tilton",15654219,SP,508.9,-0.4,1.3,9.8,6.4,"San Mateo",California,"United States",37,48.76,,564.7,,168.6,179
+2017-07-30T14:04:54Z,"You are so fake, you make Barbie Dolls look real!",12610019,MC,324.7,3.6,7.5,21.3,9.3,"Elmwood Park","New Jersey","United States",28,43.89,,624.2,,180.1,184
+2017-04-12T17:17:34Z,"Platt Ave East (UTR)",15456165,SP,739.1,0.1,8,20.4,14,"Saddle Brook","New Jersey","United States",75,36.02,,239.8,,,
+2017-04-09T09:53:14Z,"Midland to Main West",12606351,FM,1741.6,-0,18.2,37.5,7.2,Garfield,"New Jersey","United States",191,32.78,,245.4,,,
+2017-03-02T22:17:30Z,"Florida Ave Finesse ",12601772,SP,554.2,-1.7,2,36.5,26.4,Paterson,"New Jersey","United States",38,43.38,,173.9,,,
+2017-03-02T22:11:01Z,"E 2nd East",12466211,SP,517.4,1.8,3.1,36.5,27.3,Clifton,"New Jersey","United States",51,37.3,,384.8,,,
+2017-03-02T22:06:23Z,"E 2nd West",12466191,SP,641.1,-1.9,0,36.6,24.1,Clifton,"New Jersey","United States",57,40.85,,137.3,,,
+2017-03-02T17:20:44Z,"Ackerman Ave Pimple",11983293,SP,804,-0,5.3,13.2,4,Clifton,"New Jersey","United States",79,37.15,,269.3,,,
+2017-03-02T16:51:51Z,"5th Ave East (E15-Madison)",12160089,MC,356.3,4.2,8.4,38.3,23.2,Paterson,"New Jersey","United States",33,38.81,,632.3,,,
+2017-03-02T16:40:15Z,27-29,12583388,MC,141,4.5,5.8,31.3,24.9,Paterson,"New Jersey","United States",11,48.27,,913.8,,,
+2017-03-02T16:39:39Z,"11th East",15485010,SP,551.1,0.3,5.5,39.4,37.6,Paterson,"New Jersey","United States",46,43.58,,456.7,,,
+2017-03-02T16:26:55Z,"20 East: Summer - Madison ZDSG",12123702,SP,569.1,0.2,6.3,29.9,24.2,Paterson,"New Jersey","United States",54,37.56,,276.4,,,
+2017-03-02T16:17:51Z,"21 East (Summer-Mad) ZDSG",12723228,SP,703.5,0.2,2.3,27.5,24.4,Paterson,"New Jersey","United States",54,47.01,,486.5,,,
+2017-02-27T15:04:47Z,"Short Sprint Up Dewey St East",13494431,MC,232.2,6.6,10.5,17.4,2,Garfield,"New Jersey","United States",21,39.26,,650.8,,,
+2017-02-27T11:15:14Z,"23-25 East",12606404,SP,130.1,2,5.3,28.9,26.1,Paterson,"New Jersey","United States",10,48.1,,489.9,,,
+2017-01-27T12:05:44Z,"Clifton BLVD: Oak to Byron NW",13968230,MC,414.4,3.2,15.7,26.8,10.2,Passaic,"New Jersey","United States",46,32.74,,433.2,,,
+2017-01-27T11:59:38Z,"howe is this clown serious? (out of order)",16665421,SP,564.9,0.7,9,112.4,108.2,Passaic,"New Jersey","United States",95,21.13,,96.1,,,
+2016-12-28T13:17:44Z,"River Road Freshly Paved Section (The Original Segment)",13165207,SP,551.9,-0.8,1.1,9.6,5,Garfield,"New Jersey","United States",46,40.45,,274,,,
+2016-11-03T19:34:09Z,"Main Ave SW Sprint",13585092,SP,400.9,0.5,5.9,1.8,-1,"South Hackensack","New Jersey","United States",33,43.67,,400.6,,,
+2016-11-03T18:11:18Z,"Hancock to Boulevard",10222006,FM,1425.2,0.4,3.8,17.3,9.6,Lodi,"New Jersey","United States",119,41.64,,358.6,,,
+2016-11-02T15:29:00Z,"Bloomfield Ave NE - Allwood circle to end",12484384,FM,1171.1,-0.4,0,65.4,61,Clifton,"New Jersey","United States",91,45.86,,371.1,,,
+2016-11-02T15:29:00Z,"Allwood Circle to Brighton Rd Sprint (UTR)",13576168,SP,231,-0.8,-0.3,43.6,41.7,Clifton,"New Jersey","United States",21,41.93,,334.3,,,
+2016-10-31T14:12:30Z,"Your powers are weak, your legs are made of jello...",13568969,SP,832.3,-0.5,4.5,44.2,37.8,Paterson,"New Jersey","United States",80,37.45,,215.7,,,
+2016-10-31T14:11:42Z,"Escape from South P (ZDSG Progress Segment)",12698751,FM,1879.8,-0.6,7.5,41.7,25.9,Clifton,"New Jersey","United States",179,37.45,,205.2,,,
+2016-10-31T13:56:15Z,"SS North (ZDSG Progress Segment)",12697943,FM,2927.8,-0.6,13.5,53.8,28,Clifton,"New Jersey","United States",285,37.02,,216.9,,,
+2016-10-31T11:42:13Z,"River Dr South - Outwater Ln to Passaic St",11051677,FM,1911.9,-0.1,10.1,8.6,3.6,Garfield,"New Jersey","United States",178,38.47,,252.9,,,
+2016-10-31T11:37:27Z,"River Rd TT South",12743348,TT1,5920.5,-0.2,11.3,15.1,2.2,"Elmwood Park","New Jersey","United States",585,37.46,,260.9,,,
+2016-10-30T14:04:15Z,"Broadway E 21-32",12454245,SP,943.6,-0.9,0.5,28.9,20.5,Paterson,"New Jersey","United States",81,42.12,,245.1,,,
+2016-10-30T14:04:15Z,"Broadway E (21st-32nd)",12454212,SP,915.2,-0.9,0,28.9,20.7,Paterson,"New Jersey","United States",76,42.32,,243.7,,,
+2016-10-30T13:52:43Z,"Hospital Drive Northbound",11954775,SP,706,-0.8,1,38.5,31.8,Paterson,"New Jersey","United States",51,47.62,,311.1,,,
+2016-10-30T13:52:41Z,"You look like you have been hit in the face with a bag of nickels...",13552772,SP,987.4,-1.2,0.6,38.7,26.4,Paterson,"New Jersey","United States",78,45.99,,276.6,,,
+2016-10-25T14:06:35Z,"Market Street East (ZDSG)",13086009,SP,899.2,0,5.8,-7.2,-11.6,"Elmwood Park","New Jersey","United States",75,43.35,,416.4,,,
+2016-10-24T18:17:39Z,"Lake Ave Land Slide NE.",12470675,SP,699.5,0.2,7.4,16.8,9.6,Passaic,"New Jersey","United States",89,28.84,,156,,,
+2016-10-23T06:56:05Z,"Market St Eastbound - Midland Ave to Saddle River Rd",12132470,FM,1915.8,-0.4,6.2,-0.8,-10,"Elmwood Park","New Jersey","United States",206,33.17,,182.1,,,
+2016-10-19T19:19:05Z,"4 to Phillip (ZDSG)",14453692,FM,1267.9,0.2,4.7,-14.8,-19,,,,85,53.54,,689.4,,143,143
+2016-10-19T19:19:00Z,"River Dr South - Rt 4 to Rt 80",12347066,FM,2012.8,0.3,5.5,89.4,81.6,"Elmwood Park","New Jersey","United States",164,44.85,,490.1,,143,143
+2016-10-19T19:17:46Z,"Morlot to Miller (ZDSG)",14453761,FM,2307.3,-0.3,4.7,-8.2,-19.6,"Fair Lawn","New Jersey","United States",168,49.5,,520.2,,143,143
+2016-10-19T19:17:46Z,"River Drive Morlot to Train Tracks (UTR)",13479156,FM,2729.4,-0.2,3.5,11.4,1,,,,204,48.17,,496.6,,143,143
+2016-10-17T20:02:01Z,"Clifton Ave East End (ZDSG)",12877393,FM,3222.6,-0.7,5.7,41.8,11.6,Clifton,"New Jersey","United States",294,39.06,,225.9,,163.1,165
+2016-10-17T19:59:05Z,"Clifton Ave Northeast Complete Run - Allwood to the end at Randolph Ave",12858318,TT1,5241.3,-0.7,8.2,-9.2,-52.4,Clifton,"New Jersey","United States",491,38.54,,222.9,,157.3,165
+2016-10-17T19:34:29Z,"Grove St Southbound Sprint to 46",13465612,SP,617,1.8,5.3,64.6,53.6,Clifton,"New Jersey","United States",65,33.34,,293.1,,161.6,179
+2016-10-17T19:11:56Z,"Vreeland Ave S",13298404,SP,738.2,-0.5,1,22.2,17.1,Paterson,"New Jersey","United States",59,44.05,,355.3,,160,163
+2016-10-17T18:44:14Z,"Wagaraw East Sprint to First Light at Lafayette ",13490732,SP,826,-0.7,4.1,44,35.8,Hawthorne,"New Jersey","United States",66,44.92,,357,,,
+2016-10-17T12:42:35Z,"Getty Ave SE",12197992,SP,904.7,-0.4,5.8,30.6,26.6,Clifton,"New Jersey","United States",79,41.09,,298.9,,,
+2016-10-17T12:30:00Z,"E27 (18-20)",12179066,SP,385.8,0.6,1.9,26.8,24.5,Paterson,"New Jersey","United States",34,40.35,,299.7,,,
+2016-10-17T12:23:45Z,"11-Broad South ZDSG",12606378,SP,396.1,0.6,2,29.1,26.8,Paterson,"New Jersey","United States",41,33.2,,225.1,,,
+2016-10-17T12:16:45Z,"32-28 5%",12040221,MC,259.5,4.5,10.3,31.4,17.3,Paterson,"New Jersey","United States",30,29.4,,520.5,,,
+2016-10-17T12:16:45Z,"32-28 6%",12040238,MC,232,5.5,10.3,31.4,17.4,Paterson,"New Jersey","United States",27,29.17,,559.1,,,
+2016-10-17T12:12:51Z,33-39,12147536,SP,477.8,2.6,5.7,27.1,14.7,Paterson,"New Jersey","United States",58,31.08,,336.3,,,
+2016-10-17T12:07:13Z,"Park Ave to Broadway (UTR)",13463369,SP,499.7,-0.4,0,26.8,24.8,Paterson,"New Jersey","United States",40,44.97,,362.6,,,
+2016-10-17T12:07:13Z,"Park - Broad (ZDSG)",12117303,SP,521.2,-0,1.3,21.1,20.4,Paterson,"New Jersey","United States",42,44.85,,360.8,,,
+2016-10-17T11:58:27Z,"Trenton Ave Sprint : Crooks - I80 Bridge",11920761,FM,1092.2,-0.4,30.6,29.8,20.7,Clifton,"New Jersey","United States",93,41.29,,295.8,,,
+2016-10-11T11:46:46Z,"Howard are you home? (ZDSG)",12944590,MC,222.7,3.7,9.7,-2.4,-10.6,Passaic,"New Jersey","United States",20,37.75,,572.5,,,
+2016-10-07T15:06:21Z,"Broadway Bump (UTR) Dominate",13421942,MC,359.6,5.2,7,40.6,21.8,Paterson,"New Jersey","United States",35,36.99,,669.4,,,
+2016-10-07T15:06:19Z,"Broadway East Bump",12398084,MC,387.8,5.2,9.3,-26.4,-46.6,Paterson,"New Jersey","United States",38,36.75,,645.2,,,
+2016-10-07T14:56:45Z,"Madison Ave 9th - 6th",11532198,SP,576.7,2.3,3.4,41.8,28.6,Paterson,"New Jersey","United States",58,37.37,,410.4,,,
+2016-10-07T14:43:47Z,"Vreeland Northbound",12018684,SP,985.7,0.4,2.5,22.3,17,Paterson,"New Jersey","United States",87,41.08,,335.1,,,
+2016-10-07T14:43:47Z,"Tracks - Park Ave via Vreeland Ave NorthBound : Time The Lights (ZDSG)",11614474,SP,967.7,0.4,2.4,22.3,17,Paterson,"New Jersey","United States",85,41.14,,337.6,,,
+2016-10-07T13:05:56Z,"Can you make it BTU?",12091980,MC,289,3.2,6,43.8,31.9,Passaic,"New Jersey","United States",27,37.35,,512,,,
+2016-10-07T12:52:56Z,"Aycrigg to Paulison sprint (out of order)",16766092,SP,365.8,1,1.6,34.1,30.6,Passaic,"New Jersey","United States",34,34.72,,308.9,,,
+2016-10-07T12:52:14Z,"Passaic Ave uphill sprint to Aycrigg (out of order)",16766080,SP,334.5,2.2,8,30.3,22.8,Passaic,"New Jersey","United States",36,33.78,,334.5,,,
+2016-10-07T12:51:54Z,"Dead End TT (ZDSG)",13102964,FM,2863.5,-0.6,9.6,3,-26.8,Passaic,"New Jersey","United States",308,33.98,,187.6,,,
+2016-10-07T12:51:53Z,"You got ""Dead End(ed)"" (UTR)",13421907,FM,2919.8,-0.6,6.5,-12.2,-43.4,Passaic,"New Jersey","United States",309,33.98,,189.2,,,
+2016-10-07T12:46:22Z,"Benson Ave Loop (CounterClockwise) ZDSG",12944548,SP,459.4,0.4,6.1,-12.6,-14.6,Passaic,"New Jersey","United States",50,33.24,,222.6,,,
+2016-10-02T18:20:32Z,"Grand Street E",12983287,SP,592.8,2.2,11.7,23,9.2,Paterson,"New Jersey","United States",60,35.36,,382.5,,161.8,174
+2016-10-02T17:47:23Z,"Riverview Dr - Rt 46 to Rt 80",13351853,TT1,4197,-0.4,6.3,52,33.2,Totowa,"New Jersey","United States",447,33.84,,179.8,,146.9,172
+2016-10-02T17:47:22Z,"Riverview Dr - 46 to Lackawanna",13360081,FM,2445.2,-0.7,5.3,52,33.8,Totowa,"New Jersey","United States",268,32.67,,156.6,,134.8,164
+2016-10-02T16:07:01Z,"West Broadway Climb",13351175,MC,690.2,5.2,10.5,46,10.4,Paterson,"New Jersey","United States",89,27.92,,433.1,,161.4,168
+2016-10-02T08:47:16Z,"Clifton Ave WB Sprint - 3rd to Paulison (lite to lite)",12796722,SP,760.1,2.2,7,28.6,11.8,Clifton,"New Jersey","United States",85,31.33,,314.6,,75,75
+2016-10-02T08:46:16Z,"Clifton Ave WB Run - Main to Paulison",12796667,FM,1302.5,1.3,7,28.6,7.4,Clifton,"New Jersey","United States",146,32.15,,259.3,,75,75
+2016-09-29T13:32:33Z,"Piaget Ave Pimple West (ZDSG)",12782066,SP,623.4,1.4,24.8,30.9,16.5,Clifton,"New Jersey","United States",58,37.89,,399.1,,,
+2016-09-29T13:32:32Z,"Piaget Ave Westbound (UTR)",13333546,SP,611.7,1.8,8.5,26.2,10.4,Clifton,"New Jersey","United States",58,37.97,,408.4,,,
+2016-09-29T13:11:57Z,"Montclair Ave Pimple",12147664,SP,360.9,1,3.3,52.6,46,Paterson,"New Jersey","United States",30,43.66,,474,,,
+2016-09-29T12:51:18Z,"Lucky Deli",7594817,FM,1577.5,1,4.2,96.8,80.3,Clifton,NJ,"United States",145,38.38,,346.1,,,
+2016-09-29T12:51:18Z,"Lucky Deli",7594807,FM,1577.5,1,4.2,96.8,80.3,Clifton,NJ,"United States",145,38.38,,346.1,,,
+2016-09-29T12:35:33Z,"Paulison Ave North TT (UTR)",13433370,TT1,3635.4,0.4,8.6,36.6,20.2,Clifton,"New Jersey","United States",380,34.44,,244.5,,,
+2016-09-29T12:35:27Z,"Uncle Paulie TT North (ZDSG)",13143409,TT1,3698,0.4,9.8,12,-3.2,Clifton,"New Jersey","United States",390,34.24,,241.2,,,
+2016-09-29T10:46:23Z,"Prospect to Passaic",13644893,SP,603.5,2.9,4.5,34.5,17,Passaic,"New Jersey","United States",94,24.07,,233.7,,,
+2016-09-28T14:50:59Z,"Paulison Ave: Oak to Byron ",13300459,MC,469.6,4.8,7.9,44.7,22.2,Passaic,"New Jersey","United States",47,35.37,,576.7,,,
+2016-09-28T14:50:59Z,"Paulison Ave: Oak St to Byron PL",13272761,MC,375.2,4.8,6.8,39.9,21.9,Passaic,"New Jersey","United States",36,36.51,,602.9,,,
+2016-09-28T13:53:37Z,"Luddington Ave Rollers",12286701,FM,1195.6,1.7,7,42.9,21.9,Clifton,"New Jersey","United States",121,36.22,,353.8,,,
+2016-09-28T13:32:51Z,"Crooks Ave Eastbound - to Lakeview Ave",13318369,FM,1617.9,-0.4,6.6,113.2,89,Paterson,"New Jersey","United States",154,37.55,,237.8,,,
+2016-09-28T13:32:41Z,"Crooks Eastbound (End to End)",12149241,FM,1707.9,-0.5,3,47.7,25.2,Paterson,"New Jersey","United States",163,37.62,,228.6,,,
+2016-09-28T13:32:41Z,"Crooks E",12900665,FM,1700.3,-0.5,3.2,47.8,25.2,Paterson,"New Jersey","United States",161,37.75,,225.5,,,
+2016-09-28T13:23:15Z,"Gould Ave SW",12269918,SP,324.3,1.2,3.5,46.4,42.5,Clifton,"New Jersey","United States",26,44.89,,431.8,,,
+2016-09-28T13:01:20Z,"Valley Road (Ma-VH) ZDSG",12881450,FM,2578.4,1.6,10.9,74,31.8,Paterson,"New Jersey","United States",285,32.53,,297.9,,,
+2016-09-28T13:01:18Z,"Valley Road Marshall to Van Houten (UTR) Dominated",13433434,FM,2587.5,1.7,10.7,94.2,50.4,Paterson,"New Jersey","United States",287,32.46,,298.6,,,
+2016-09-28T12:45:13Z,"Crooks Ave Westbound - Lakeview to Hazel St",13318393,FM,1669.5,0.5,7.6,-91.6,-113.4,Paterson,"New Jersey","United States",148,40.45,,348,,,
+2016-09-28T12:45:13Z,"Crooks W ",12900617,FM,1648.7,0.5,5,47.1,25.2,Paterson,"New Jersey","United States",146,40.54,,350.7,,,
+2016-09-28T12:45:13Z,"Crooks Westbound (End to End)",12570285,FM,1659.2,0.5,5,47.1,25.2,Paterson,"New Jersey","United States",146,40.54,,350.7,,,
+2016-09-28T12:36:07Z,"Christie Ave W",12307341,SP,652.5,2.6,10.6,27.8,11.1,Clifton,"New Jersey","United States",74,31.3,,325.6,,,
+2016-09-27T14:10:49Z,"Van Houten Ave - Clifton Ave to Mt Prospect Sprint (UTR)",13305305,SP,491,-1.3,2,43.3,36.1,Clifton,"New Jersey","United States",38,46.34,,303.5,,,
+2016-09-27T13:55:35Z,"Marshall St/Hazel St Southbound - Valley Rd to Crooks Ave",12149205,FM,1700.3,-0.3,15.2,53.8,40.8,Paterson,"New Jersey","United States",157,39.03,,249.8,,,
+2016-09-27T10:35:33Z,"Main Ave - Bridge Sprint to light (UTR)",13305487,SP,415.8,0.6,1.4,5.1,2.5,Wallington,"New Jersey","United States",36,40.81,,310.6,,,
+2016-09-22T15:10:07Z,"20th - Market 3% ZDSG",11785390,SP,391.2,2.1,2.7,33.5,25.1,Paterson,"New Jersey","United States",31,45.09,,621.6,,,
+2016-09-22T15:10:07Z,"Madison Ave Sprint : 20th Ave - Market St. Uphill",11534289,SP,389.8,2.1,2.6,33.5,25.3,Paterson,"New Jersey","United States",31,45.09,,621.6,,,
+2016-09-22T14:54:37Z,"Mad Dash: Getty - Iglesias",12040350,SP,760.1,-1,17.7,41.2,29.4,Paterson,"New Jersey","United States",54,50.07,,433.8,,,
+2016-09-22T11:38:14Z,"Monroe to Outwater (ZDSG)",13259092,FM,1497.4,-0,5,3,0.8,Garfield,"New Jersey","United States",132,40.33,,287.5,,,
+2016-09-22T11:37:48Z,"Mile of Roughness - Midland Ave North to Outwater Ln",11679371,FM,1794.6,-0.2,4.7,3,-3.2,Garfield,"New Jersey","United States",164,39.52,,273.5,,,
+2016-09-22T11:12:20Z,"Main Ave South Sprint to Main Ave ",16022272,SP,456.3,0.9,5.1,3.2,-1,Garfield,"New Jersey","United States",40,40.91,,405.9,,,
+2016-09-22T11:11:47Z,train-stein,11549838,FM,1045.6,0,6.3,10.2,2.2,Garfield,"New Jersey","United States",93,40.15,,312,,,
+2016-09-22T11:04:43Z,"Passaic St State St to 6th (UTR)",13433940,SP,877,-0.5,5.9,11.1,3.4,Passaic,"New Jersey","United States",76,40.15,,262.2,,,
+2016-09-22T11:04:43Z,"Passaic St State St to Market St (UTR)",13263556,SP,550.1,-0.9,1.4,-18,-23.2,Passaic,"New Jersey","United States",47,42.14,,299.1,,,
+2016-09-22T11:04:42Z,"State to 6th (ZDSG)",13103499,SP,921.4,-0.2,7.8,-20,-24.4,Passaic,"New Jersey","United States",83,40.22,,250.6,,,
+2016-09-20T14:12:12Z,"Allwood Rd Broad St to Clifton Ave (UTR)",13239999,SP,465.3,-1,34.6,63.1,54.5,Clifton,"New Jersey","United States",39,42.18,,298.9,,,
+2016-09-20T13:55:28Z,"Lambert Castle - Entrance to the very top",12262703,MC,586.1,5,21.4,169.6,140.4,Clifton,"New Jersey","United States",73,29.06,,412.3,,,
+2016-09-20T13:55:28Z,"Lambert Castle - Entrance to top",12262721,MC,559.6,4.9,21.4,167.8,140.4,Clifton,"New Jersey","United States",69,29.34,,418.7,,,
+2016-09-20T13:40:34Z,"Kuller Road Full NB (UTR)",13434159,FM,1752.2,-0.5,4,48.2,34.4,Clifton,"New Jersey","United States",150,42.05,,300.8,,,
+2016-09-20T13:40:30Z,"Kuller Road Northbound (created by ZDSG)",12009730,FM,1737,-0.6,4.7,53.9,39.1,Clifton,"New Jersey","United States",148,41.88,,299.4,,,
+2016-09-20T13:23:19Z,"Double Small Loop (UTR)",13451273,FM,1518,0,5.6,21.2,19,Passaic,"New Jersey","United States",151,36.19,,230.3,,,
+2016-09-20T13:23:16Z,"Double Small Loop (ZDSG)",12944578,FM,1482.1,-0.1,8.6,-2.2,-7.4,Passaic,"New Jersey","United States",152,36.19,,232.6,,,
+2016-09-20T13:23:16Z,"Single Small Loop (ZDSG)",12944680,SP,733.4,-0.1,8.6,-2.2,-7,Passaic,"New Jersey","United States",73,37.23,,231.7,,,
+2016-09-17T08:26:37Z,"Ackerman Ave Pimple West (UTR) Dominated",13437549,SP,661.4,-0.4,6.7,1.2,-9.2,Clifton,"New Jersey","United States",57,41.77,,358.5,,162.2,170
+2016-09-17T08:26:36Z,"Ackerman Ave Pimple West (Original) created by ZDSG",12515364,SP,664,-0.4,3.6,18.3,10.7,Garfield,"New Jersey","United States",55,41.59,,330.5,,161.6,170
+2016-09-15T12:47:48Z,"Hazel St South - Marshall to Crooks",12149227,SP,997.6,-0.1,6.9,46,39.6,Paterson,"New Jersey","United States",85,42.28,,326.4,,,
+2016-09-15T12:25:44Z,"Allwood Rd Market St to Hepburn Rd (UTR)",13189531,SP,616.6,1.5,5.3,44.6,35.2,Clifton,"New Jersey","United States",61,36.83,,367.6,,,
+2016-09-15T12:25:05Z,"Allwood Circle to Clifton Ave Slow Grind (UTR)",13189509,FM,1517.6,0.6,5.6,44.6,27,Clifton,"New Jersey","United States",139,39.18,,343.2,,,
+2016-09-15T12:25:02Z,"Allwood Circle to Market St Sprint (UTR)",13189516,SP,403.8,1.8,5.6,34.2,27,Clifton,"New Jersey","United States",40,37.17,,383.3,,,
+2016-09-15T12:11:46Z,"Van Houten Ave - Main Ave to Passaic Ave (slow grind)",13177100,SP,717.6,0.8,8.9,18.4,11.8,Passaic,"New Jersey","United States",68,38.23,,474.8,,,
+2016-09-13T20:33:32Z,"Clifton Ave Eastbound Roller Sprint - Paulison to 3rd St",13189362,SP,807,-1,5.1,40.2,27.6,Clifton,"New Jersey","United States",67,43.35,,256.5,,,
+2016-09-13T19:39:52Z,"Allwood Rd  Main to Passaic",5285021,MC,584.5,5,10.9,43.8,13.2,Clifton,NJ,"United States",73,28.66,,448.1,,166.2,176
+2016-09-13T19:37:02Z,"Delawanna Ave Pine to Main Catch the Bus (UTR)",13189421,SP,439.5,-0.5,0,-2.4,-4.4,Clifton,"New Jersey","United States",34,46.54,,397.2,,160.3,164
+2016-09-13T15:03:27Z,"Van Houten Ave Leg Masher Clifton Ave to Broad St (UTR)",13186637,SP,772.3,0.7,6.8,55.5,43,Clifton,"New Jersey","United States",70,38.33,,404.1,,,
+2016-09-10T15:05:35Z,"Arnot Street Pimple Burst",13215614,SP,339.6,2,11.5,8.4,1.6,Lodi,"New Jersey","United States",43,29.35,,273.6,,,
+2016-09-09T13:26:03Z,"Market Street - Madison Ave to split",12698817,FM,1567.4,-0.8,1.8,33.2,20.1,Paterson,"New Jersey","United States",130,43.34,,302.9,,,
+2016-09-09T13:15:46Z,"Museum to McBride",12448853,MC,248.1,4.8,10.4,37.3,25.3,Paterson,"New Jersey","United States",26,34.75,,531.3,,,
+2016-09-08T15:09:24Z,"Crooks Ave - Illinois Ave  ",12029790,SP,621.3,0.1,1.7,42.1,38.5,Paterson,"New Jersey","United States",49,45.89,,463.5,,,
+2016-09-08T15:09:18Z,"Lakeview Ave Quarter Mile Sprint (UTR)",13270704,SP,442,0.1,4.8,40.7,38.4,Clifton,"New Jersey","United States",33,48.1,,497.9,,,
+2016-09-08T14:12:14Z,"Grand Street: Spruce to McBride (ZDSG)",11620255,FM,1038.1,1.1,9.9,54,28.9,Paterson,"New Jersey","United States",105,35.83,,364.8,,,
+2016-09-08T14:12:02Z,"Grand St Westbound Climb ",12407488,MC,525.2,5.6,18,40,10.6,Paterson,"New Jersey","United States",65,29.74,,428.3,,,
+2016-09-06T20:08:41Z,"Clifton Ave South - St James Pl Light to Allwood",13368302,FM,1114.3,0.9,4.4,39,28.8,Clifton,"New Jersey","United States",104,38.04,,321.6,,,
+2016-09-06T20:07:53Z,"Clifton Ave Sprint : Van Houten to Allwood",11870010,FM,1682.3,0.7,4.2,55.8,43.1,Clifton,"New Jersey","United States",157,38.46,,317.1,,,
+2016-09-06T19:53:04Z,"Main Ave South - Ascension Ave Bump",12276413,MC,196.3,3.8,12.4,9.2,1.8,Passaic,"New Jersey","United States",16,46.33,,671.9,,,
+2016-09-06T19:52:57Z,"Main Ave to Ascension",9597194,SP,318.4,2.1,6.9,-0.4,-7.2,Passaic,"New Jersey","United States",25,47.36,,586.1,,,
+2016-09-06T19:35:14Z,"Kuller Road Full : Southbound (Hazel to Hazel) ZDSG",11637984,FM,1753.8,0.6,16,52.3,39.5,Paterson,"New Jersey","United States",157,39.96,,324.9,,,
+2016-09-06T19:26:20Z,"Mad Dash: 21 - Getty",12147678,SP,840.3,1.2,17.4,41,28.1,Paterson,"New Jersey","United States",73,40.64,,405.2,,,
+2016-09-06T19:19:29Z,"Madison South (Broadway-Market)",12581775,SP,673.2,0.6,3.6,33.5,28.6,Paterson,"New Jersey","United States",60,39.67,,344.1,,,
+2016-09-06T19:11:01Z,"Broadway (Paterson) 34th - 37th (UTR) Dominated",13437536,MC,451.7,5.1,12.6,43.3,15.1,Paterson,"New Jersey","United States",50,32.52,,565.8,,,
+2016-09-06T19:11:01Z,"Broadway (Paterson) 34th - 37th (created by ZDSG)",11630832,MC,456,5.3,11.7,40.6,14.9,Paterson,"New Jersey","United States",49,32.5,,577.3,,,
+2016-09-06T19:01:11Z,"Molnar Dr Westbound - Midland to Blvd",13124836,SP,938.4,-0.3,0,12.2,9.4,"Elmwood Park","New Jersey","United States",79,42.81,,328.4,,,
+2016-09-06T18:52:08Z,"Hill of lost and confused souls",13107721,MC,218,4.4,7.1,26.2,16.6,Lodi,"New Jersey","United States",18,39.66,,678.1,,,
+2016-09-05T12:16:48Z,"Morlot Ave Sprint Westbound - River Rd to the bridge",10560734,SP,877.2,-0.7,7.4,86.4,74.4,"Fair Lawn","New Jersey","United States",65,48.82,,422.7,,,
+2016-09-04T20:27:40Z,"BLVD S Sprint (ZDSG)",12847303,SP,639.2,-0.5,0.5,16.6,13.6,"Elmwood Park","New Jersey","United States",53,41.97,,282.1,,173.4,176
+2016-09-04T19:45:04Z,"Midland Ave NB - Rt 80 to Rt 4",12805568,FM,2036.2,0.1,7.1,49.4,36.4,"Saddle Brook","New Jersey","United States",205,35.93,,245.8,,171.3,183
+2016-09-04T19:28:18Z,"I'm an old mack from way back, the original playa from the himalaya.",13107742,SP,682.1,1.5,6.3,16.8,4.2,,,,68,36.11,,356.5,,145.8,173
+2016-09-02T13:34:14Z,"Clifton Ave Bump Sprint to Paulison",13241385,MC,225.9,3.9,6.1,25.2,16,Clifton,"New Jersey","United States",23,36.75,,544.8,,,
+2016-08-30T12:23:26Z,"keller Rd Hill",10024531,MC,349.9,3.7,5.6,52.4,39.5,Clifton,"New Jersey","United States",32,37.43,,532.4,,,
+2016-08-30T12:23:21Z,"Kuller Rd Hill (UTR)",13055320,MC,367.1,3.5,5.6,52.4,39.6,Clifton,"New Jersey","United States",37,37.59,,501.2,,,
+2016-08-30T12:08:57Z,"Piaget Ave Pimple East Original Segment",13250445,SP,595,-1.5,13.7,30.9,16.3,Clifton,"New Jersey","United States",51,43.12,,296.7,,,
+2016-08-30T12:08:57Z,"Piaget Ave Pimple East (ZDSG)",12877396,SP,597.9,-1.4,20.1,30.9,16.5,Clifton,"New Jersey","United States",50,43.43,,302.6,,,
+2016-08-30T12:00:28Z,"Highland Ave Original Segment",13055142,FM,1070,-1.5,3,37.4,18,Clifton,"New Jersey","United States",89,44.11,,261.2,,,
+2016-08-30T12:00:28Z,"Highland (ZDSG)",12919885,FM,1073.1,-1.6,0,21.2,3.8,Clifton,"New Jersey","United States",89,44.11,,261.2,,,
+2016-08-30T11:52:46Z,"Shark Dip (ZDSG)",12885616,SP,463.8,0.4,5.2,23.2,18.6,Clifton,"New Jersey","United States",37,43.74,,433.4,,,
+2016-08-30T11:52:41Z,"Great White eats the Shark Dip",13055079,SP,528.8,0.5,6,38.9,32.8,Clifton,"New Jersey","United States",45,42.34,,400.3,,,
+2016-08-29T09:39:15Z,Outwater-stein,11549835,FM,1971.1,-0.1,1.6,14,9.5,Garfield,"New Jersey","United States",183,38.41,,260.4,,,
+2016-08-11T19:49:13Z,"Paulison Climb",4478969,MC,546.5,5.3,7.9,42.4,13.4,Passaic,NJ,"United States",64,29.43,,488.2,,,
+2016-08-11T10:24:22Z,"Market St West - River Dr to Rt 20 Ramp",12402937,SP,560.9,-0.1,5.6,-1.6,-6.4,"Elmwood Park","New Jersey","United States",47,42.72,,417.8,,,
+2016-08-11T10:24:17Z,"Market St - River Dr to River Rd (Elmwood Park - Paterson)",12018636,SP,446.2,-0.4,1.7,12.1,9,"Elmwood Park","New Jersey","United States",34,47.03,,421.3,,,
+2016-08-11T10:10:40Z,"Hill to Cementery",10039558,MC,277.3,6.7,21.5,38.1,19.4,Garfield,"New Jersey","United States",28,34.5,,690,,,
+2016-08-05T22:01:57Z,"Market Street (Main to Madison Ave) ZDSG",12699456,FM,1500.7,0.6,4.3,38.1,21.5,Paterson,"New Jersey","United States",148,36.31,,280,,,
+2016-08-05T22:01:55Z,"Market Street Full (UTR) Dominates",13437909,FM,3157.4,-0.1,4.8,38.1,20.1,Paterson,"New Jersey","United States",308,36.9,,232.3,,,
+2016-08-05T22:01:55Z,"Market Street - Main St to Madison Ave  Leg Crusher (UTR)",12807148,FM,1498.9,0.6,4.2,38.1,21.5,Paterson,"New Jersey","United States",147,36.36,,287.2,,,
+2016-08-05T22:01:55Z,"Market Street Full (ZDSG)",12147587,FM,3331.6,-0.1,4.2,38.1,20.1,Paterson,"New Jersey","United States",323,36.26,,228.5,,,
+2016-08-04T17:17:16Z,"Saddle River North - Market to Railroad Ave tracks",12132482,SP,469.2,-0.1,4.3,21.8,17,"Saddle Brook","New Jersey","United States",35,47.98,,483.8,,,
+2016-08-04T12:12:49Z,"Clifton Ave Lexington to Randolph Ave (UTR) ",13061836,SP,766.2,0.6,4.3,10,3.4,Clifton,"New Jersey","United States",67,41.17,,355,,,
+2016-08-04T12:12:49Z,"ZDSG Progression Segment",12703808,SP,768.6,0.7,2,19,11.6,Clifton,"New Jersey","United States",67,41.17,,355,,,
+2016-08-04T11:48:54Z,"21 W (Trent-Mad) ZDSG",11872303,SP,734.3,0.6,5.7,34.6,25.1,Paterson,"New Jersey","United States",75,35.15,,264.2,,,
+2016-08-04T11:38:41Z,"Market NE Original Segment (UTR)",13179821,SP,462.6,1.9,3.1,33.4,24.2,Paterson,"New Jersey","United States",45,36.13,,336.8,,,
+2016-08-04T11:38:37Z,"Market NE (ZDSG)",12179110,SP,502.9,1.7,3.3,33.7,24.2,Paterson,"New Jersey","United States",50,35.9,,349,,,
+2016-08-04T11:37:09Z,"Market: 35 - Shell (ZDSG)",12117809,FM,1364,0.8,3,32.1,20.9,Paterson,"New Jersey","United States",131,37.46,,309.2,,,
+2016-08-04T11:37:05Z,"Market Street 35th - Shell Original Segment",12971872,FM,1469.1,0.9,3.1,33.5,20.4,Paterson,"New Jersey","United States",142,36.89,,309.5,,,
+2016-08-04T11:28:34Z,"Market St West - Blvd to River Rd",12402783,FM,1367.2,-0.4,7.3,5,-6.4,"Elmwood Park","New Jersey","United States",125,39.25,,277.6,,,
+2016-07-23T07:49:04Z,"To the mural on the left (out of order)",16642953,SP,727.3,-0.4,0,15.6,12.6,Newark,"New Jersey","United States",84,30.3,,114.3,,,
+2016-07-22T19:40:44Z,"Paulison Pimple  high school passing (UTR)",13301699,SP,256.1,2.5,7.7,91,81.2,Passaic,"New Jersey","United States",25,36.88,,490.6,,,
+2016-07-22T19:40:44Z,"Paulison Pimple (ZDSG)",12466262,SP,276.2,0.9,7.5,42.4,32.7,Passaic,"New Jersey","United States",27,37.12,,454.2,,,
+2016-07-21T02:07:54Z,"East End Original Segment",13009780,SP,406.6,2.2,3.9,30.4,21.6,,,,37,39.56,,474.5,,,
+2016-07-21T02:07:54Z,"East End (ZDSG)",12676868,SP,428.1,2.3,2.9,39.5,29.6,Clifton,"New Jersey","United States",37,39.56,,474.5,,,
+2016-07-21T01:51:35Z,"Broadway North East - Bloomfield Ave to Main Ave",12625853,FM,2470,-0.7,6.7,61,42.6,Clifton,"New Jersey","United States",227,39.05,,240.5,,,
+2016-07-21T01:51:30Z,"Broadway North East - Bloomfield Ave to Main Ave (UTR)",12678305,FM,2513.4,-0.7,5.8,31,12.4,Clifton,"New Jersey","United States",232,39,,240.4,,,
+2016-07-18T20:42:05Z,"Midland to Cementery",10221936,SP,841.4,2.9,23.7,37.5,12.2,Garfield,"New Jersey","United States",85,34.98,,443.2,,,
+2016-07-18T20:34:03Z,"Passaic St Dipper (Eastbound)",11717782,SP,410.4,2.3,7.8,194.2,180.2,Garfield,"New Jersey","United States",41,36.18,,456.4,,,
+2016-07-15T20:21:45Z,"Market St West - Saddle River Rd to Midland Mile",15643209,FM,1906.4,0.3,12.3,34.8,24,"Saddle Brook","New Jersey","United States",204,33.57,,212.3,,,
+2016-07-15T20:18:13Z,"Essex-Market TT West Summit Stop at River DR (UTR)",12642473,TT1,6086.4,-0.3,15.3,30.8,8.5,Hackensack,"New Jersey","United States",614,35.69,,217.3,,,
+2016-07-15T19:10:51Z,"Crushing pace too much for zippy (UTR)",13212039,TT1,5623.1,0.2,11.6,26.3,7.8,Paterson,"New Jersey","United States",564,35.89,,242.1,,,
+2016-07-15T19:05:31Z,"The Original OMW2 BTCNJ Test (UTR)",13211915,TT2,8164.4,-0.2,11.6,33.6,7.8,Paterson,"New Jersey","United States",882,33.32,,196.8,,,
+2016-07-15T11:20:42Z,"Broadway Pimple E (ZDSG)",12944611,SP,626.2,-0.2,4.8,6.4,1.2,Passaic,"New Jersey","United States",59,38.26,,333.6,,,
+2016-07-15T11:18:49Z,"Broadway NE (UTR)",12698408,FM,2213,-0.5,5.5,38.5,24.5,Clifton,"New Jersey","United States",207,38.52,,257.5,,,
+2016-07-15T11:01:19Z,"West Orange - Clifton via Broad St",12307373,TT1,7079,0.1,21.3,59.7,37,,"New Jersey","United States",753,33.65,,198.3,,,
+2016-07-15T10:35:24Z,"Passaic Ave - Centre St to Greylock (UTR)",13578634,SP,959.6,0.6,5.3,43.9,33.6,Nutley,"New Jersey","United States",111,31.15,,204.8,,,
+2016-07-15T10:26:20Z,"Passaic to Belleville TT (ZDSG)",12515300,TT1,6415.1,0.4,11,43.9,10.2,Passaic,"New Jersey","United States",673,34.31,,234.7,,,
+2016-07-15T10:26:11Z,"Passaic to Belleville TT Original Segment",13053943,TT1,6491.8,0.4,6.1,43.9,10.1,Passaic,"New Jersey","United States",682,34.3,,237,,,
+2016-07-06T17:57:09Z,"Morlot Ave West: 208 - Saddle River Rd",12497534,FM,1093.1,-0.7,2.9,25.2,14.7,"Fair Lawn","New Jersey","United States",86,45.91,,356.2,,,
+2016-07-06T17:47:28Z,"Molnar Dr Eastbound - Blvd to Midland",12553224,SP,904.4,-0.1,1.7,35.4,32.4,"Elmwood Park","New Jersey","United States",91,35.71,,237.1,,,
+2016-07-03T21:27:21Z,"Grove Street TT (Walnut to 19)",14256900,TT2,9895.7,-0.3,21.7,95.5,51.9,Montclair,"New Jersey","United States",942,37.04,,226.3,,,
+2016-07-03T21:27:01Z,"The Original Grove Street TT - Montclair to Paterson (UTR)",13085796,TT2,9715.4,-0.2,18.1,95.6,54.3,Montclair,"New Jersey","United States",946,36.97,,226.3,,,
+2016-06-30T20:28:18Z,"Monroe to Temple (ZDSG)",12466127,SP,528.3,0,1.6,16.7,15,Passaic,"New Jersey","United States",46,40.78,,306.7,,,
+2016-06-25T11:39:28Z,"This is not flat, it's a hill. (out of order)",12243431,MC,264.5,4.6,6.4,31,18.6,"Saddle Brook","New Jersey","United States",28,33.08,,544,,121,121
+2016-06-24T10:55:28Z,"Outwater Ln Climb Mad Dash to Train Tracks",13581005,SP,801.8,0.1,7.7,24.9,12.2,Garfield,"New Jersey","United States",72,40.09,,339.4,,,
+2016-06-24T10:55:28Z,"Outwater Ln Climb Sprint to Midland",13580972,SP,991.2,-0,7.7,24.9,11.5,Garfield,"New Jersey","United States",89,40.09,,320.9,,,
+2016-06-24T10:55:28Z,"outwater first hill",10221950,MC,230.3,5.4,7.4,24.6,12.2,Garfield,"New Jersey","United States",19,42.14,,818.7,,,
+2016-06-19T08:47:14Z,"Dukes of Hazard? (out of order)",16632637,SP,513.5,-0.2,0.6,3,1.9,Kearny,"New Jersey","United States",54,34.23,,181.6,,,
+2016-06-17T16:47:14Z,"Lafayette NW",12297981,MC,237.2,6.1,9.8,26.2,11.7,Passaic,"New Jersey","United States",26,32.65,,631.2,,,
+2016-06-17T15:32:25Z,"Lafayette SE",12297761,SP,280.4,1.2,7.4,44.9,33.4,Passaic,"New Jersey","United States",30,34.16,,458.9,,,
+2016-06-12T23:04:41Z,"Park to Fork",12018858,FM,2118.1,0.2,4.2,19.9,11,Clifton,"New Jersey","United States",188,38.69,,294.8,,,
+2016-06-12T22:45:56Z,"Lakeview TT 1st - Clifton Ave",11996068,FM,1657.1,-1.3,5.7,38,14,Clifton,"New Jersey","United States",124,47.92,,355,,,
+2016-06-12T22:45:56Z,"Lakeview Ave TT South - 1st St to Clifton Ave",10560752,FM,1670.6,-1.3,25.9,106,79,Clifton,"New Jersey","United States",123,47.98,,356.4,,,
+2016-06-12T22:17:08Z,"Main Street Crooks to Madison (paterson to Passaic) TT (UTR)",12351439,TT1,3685.7,-0.5,5.9,36.6,14.8,Paterson,"New Jersey","United States",335,39.61,,257.6,,,
+2016-06-12T22:06:34Z,"Park Ave - Vreeland Ave to tracks",12699012,SP,855.5,0.9,2.5,29.3,21.2,Paterson,"New Jersey","United States",82,37.56,,327.5,,,
+2016-06-12T21:51:44Z,"Gould Ave SW (UTR) Dominated",15565397,SP,315.8,1.2,3.2,46.1,42.4,Paterson,"New Jersey","United States",25,45.48,,551.6,,,
+2016-06-12T21:40:09Z,"Hazel St Half Mile N (ZDSG)",12222442,SP,924.1,-0.5,13,54.4,47,Clifton,"New Jersey","United States",82,40.77,,240.4,,,
+2016-06-12T21:40:06Z,"Hazel St Half Mile North (UTR)",13444945,SP,957.7,-0.4,10.7,54.4,47,Clifton,"New Jersey","United States",85,40.56,,244.4,,,
+2016-06-12T11:45:22Z,"Broadway to Park Ave (UTR)",13456535,SP,513.3,0,0.6,21.1,20.4,Paterson,"New Jersey","United States",42,44,,394,,,
+2016-06-12T11:45:22Z,"Broad - Park (ZDSG)",12117316,SP,520,0.1,1,21.3,20.5,Paterson,"New Jersey","United States",43,43.43,,384.9,,,
+2016-06-12T11:28:01Z,"You are so ugly, you could be a modern art masterpiece. (UTR)",12377530,MC,773.9,3.6,9,42.3,14.7,Paterson,"New Jersey","United States",93,29.96,,388.5,,,
+2016-06-07T14:36:15Z,"Hazel St Half Mile South (UTR)",13444978,SP,920.7,0.5,13.4,54.4,47,Clifton,"New Jersey","United States",86,38.54,,303.8,,,
+2016-06-07T14:36:15Z,"Hazel St Half Mile S (ZDSG)",12222568,SP,927.1,0.5,33.3,54.5,47,Clifton,"New Jersey","United States",86,38.54,,303.8,,,
+2016-06-07T00:24:10Z,"West Third East (ZDSG)",12269912,SP,606.4,-3.2,3.5,51.1,30.9,Clifton,"New Jersey","United States",47,44.52,,153,,,
+2016-06-07T00:08:12Z,"Main Ave Sprint (Passaic to Paterson)",11820197,TT1,4926.6,0.6,16.4,48.4,14.8,Passaic,"New Jersey","United States",516,34.07,,239.6,,,
+2016-06-04T13:50:03Z,"Hardly Harding Effort",12694894,SP,336.6,1.2,3.5,29.2,25,Clifton,"New Jersey","United States",43,28.18,,198.9,,,
+2016-06-01T17:32:23Z,"Shaw St North - Mad Dash to 46   ",11679413,SP,494.9,0.7,18,6.2,0.2,Garfield,"New Jersey","United States",42,42.5,,404.4,,,
+2016-05-11T11:18:52Z,"Morlot Ave : Eastbound Bridge to River Rd",11630810,SP,858.9,0.6,8.3,17.3,10.3,Paterson,"New Jersey","United States",69,44.85,,464,,,
+2016-05-11T11:18:51Z,"Morlot Ave East",12018712,SP,866.7,1,22.6,17.3,9,Paterson,"New Jersey","United States",69,45.02,,466.4,,,
+2016-05-10T18:43:07Z,"Parker Ave Sprint : Monroe to President (Passaic)",12002887,SP,702,0.4,2.5,9.4,6,Passaic,"New Jersey","United States",90,28,,148.7,,,
+2016-05-10T12:55:36Z,"Marshall Street Barclay to Slater Street (Light is dangerous)(UTR)",13237131,FM,1262.3,-1.7,0,63.4,42.2,Paterson,"New Jersey","United States",104,43.78,,193.8,,,
+2016-05-10T12:41:53Z,"Hazel St/Marshall St Northbound - Crooks Ave to Valley Rd ",10560705,FM,1619.5,0.3,11.9,119.6,108.6,Clifton,"New Jersey","United States",155,37.37,,278.4,,,
+2016-05-09T12:26:38Z,"20th - 21st (ZDSG)",11870294,SP,186.8,1.6,1.9,28,25.1,Paterson,"New Jersey","United States",15,43.85,,540.9,,,
+2016-05-09T12:15:23Z,1738,16093715,SP,897.4,-0.4,0,24.6,21,,,,76,42.22,,291.7,,,
+2016-05-09T12:15:08Z,"Park Ave - Tracks via Vreeland Ave Southbound : Time The Lights (ZDSG)",11614448,SP,960.3,-0.4,1.7,22.2,17.1,Paterson,"New Jersey","United States",81,42.7,,310,,,
+2016-05-09T12:15:06Z,"Vreeland Southbound",12018693,SP,977,-0.4,1.4,22.2,17.1,Paterson,"New Jersey","United States",82,42.57,,309.2,,,
+2016-05-09T12:13:26Z,"Park Ave East",16827466,SP,821.4,-1,0,44,35.6,Paterson,"New Jersey","United States",93,31.52,,95.8,,,
+2016-05-04T18:06:41Z,"Aycrigg Climb River to Pennington",5284980,MC,749.2,5.3,14.4,43.5,3.3,Passaic,NJ,"United States",127,20.91,,311,,,
+2016-05-01T16:30:27Z,"Chestnut up 72 ft",10352505,MC,677.7,3.2,7,28.5,6.6,Garfield,"New Jersey","United States",54,43.88,,691.9,,,
+2016-04-29T10:30:41Z,"Clifton Ave Sprint : Main to 6th/Jewett",12023200,FM,1061.4,1.1,7.4,32.7,19.5,Clifton,"New Jersey","United States",106,36.05,,314.7,,,
+2016-04-11T12:52:18Z,"Semel Ave East - (full run) Stop sign to Midland",11687137,FM,1165.1,0.8,12.2,-39.2,-59.2,Garfield,"New Jersey","United States",136,30.74,,226,,,
+2016-04-06T12:55:18Z,"Westervelt Pl",12794098,WL,270.5,8.1,15.9,36.9,14.9,Passaic,"New Jersey","United States",38,25.63,,551,,,
+2016-04-06T12:55:17Z,"Westervelt Place Uphill Sprint",12699121,WL,264.4,8.1,15.9,36.1,14.6,Passaic,"New Jersey","United States",36,26.44,,577.4,,,
+2016-04-06T12:55:16Z,"Westervelt Place Original Segment",12794077,WL,287,8,15.9,37.2,14.3,Passaic,"New Jersey","United States",41,25.2,,532.3,,,
+2016-03-27T19:30:16Z,"Berdan Ave Sprint : Fairlawan NJ (1st-River Rd) (UTR)",12699068,SP,475.5,1.3,4.2,18.4,11.8,"Fair Lawn","New Jersey","United States",42,40.76,,442.4,,,
+2016-03-27T18:45:01Z,"No stamina? (UTR)",12713233,SP,611.8,1.9,7.9,39.3,24.8,Paterson,"New Jersey","United States",51,43.19,,555.3,,,
+2016-03-27T14:45:23Z,"Palisades Ave S",13147326,MC,399.5,5.8,11.6,37.3,13,Garfield,"New Jersey","United States",50,28.4,,516.1,,,
+2016-03-26T06:59:23Z,"Lanza Ave E. ",10843999,FM,1344.9,-0.1,3.1,14,9,Garfield,"New Jersey","United States",110,43.87,,382.9,,,
+2016-03-26T06:49:25Z,"Ackerman Ave Pipe Dream",13242388,SP,647.9,0.5,4.1,18.3,10.8,Clifton,"New Jersey","United States",53,43,,415.6,,,
+2016-03-26T06:49:22Z,"Ackerman Ave Bump (UTR)",13238923,SP,681,0.4,4.1,18.2,10.8,Clifton,"New Jersey","United States",57,42.52,,393.5,,,
+2016-03-25T11:00:29Z,"5 Lap Lakeview Ave Loop (UTR)",12046679,TT1,6762.8,0,2.1,42.2,38.4,Clifton,"New Jersey","United States",769,31.66,,168.6,,,
+2016-03-25T11:00:23Z,"5 Lap Lakeview Ave Sprint (UTR)",11982262,TT1,6784.9,0,2.1,42.2,38.4,Clifton,"New Jersey","United States",776,31.48,,168,,,
+2016-03-24T17:23:19Z,"Crooks Ave Cemetery Climb (UTR)",12698050,MC,581,4.8,8,38.8,11.2,"Elmwood Park","New Jersey","United States",92,22.73,,325.1,,,
